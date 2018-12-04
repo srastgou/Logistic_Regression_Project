@@ -1,1 +1,1 @@
-# Logistic_Regression_Project
+### Project: Heights and Weights Using Logistic Regression
